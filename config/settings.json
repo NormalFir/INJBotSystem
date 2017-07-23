@@ -1,0 +1,8 @@
+{
+	"token": "ваш токен",
+	"id": 1,
+	"autostatus": true,
+	"autoaccept": false,
+	"helpCMD": "/команды",
+	"adminID": 1
+}

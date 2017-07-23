@@ -1,0 +1,1 @@
+npm i vk-io --save; npm i request; npm i https; npm i pm2 -g
