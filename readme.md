@@ -75,7 +75,7 @@ function logged() {
 
 ### Связь со мной
 > VK:
-> https://vk.com/liniussss  
+> https://vk.com/linius1337
 
 > Telegram:
-> https://t.me/LiniusS
+> https://t.me/linius1337
